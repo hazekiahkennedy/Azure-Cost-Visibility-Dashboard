@@ -1,0 +1,8 @@
+# ============================================================
+# terraform.tfvars
+# Project 1 — Azure Cost Visibility Dashboard
+# ============================================================
+
+yourname    = "hazekiah"
+location    = "East US"
+alert_email = "hazekiah.kennedy@gmail.com"
